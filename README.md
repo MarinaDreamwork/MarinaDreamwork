@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there!
 ### 🔭 I’m currently working on my diploma project
 ### 🌱 I’m currently learning Node.js & Express
 

@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-### 🔭 I’m currently working on my [diploma project](https://github.com/MarinaDreamwork/Diploma_Fullstack_App)
+### 🔭 I’m currently refactor my code in [diploma project](https://github.com/MarinaDreamwork/Diploma_Fullstack_App), add TypeScript and correct css
 ### 🌱 I’m currently learning React, Node.js & Express
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDreamWork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

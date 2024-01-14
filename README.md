@@ -1,6 +1,6 @@
 ### 👋 Hi there!
-### 🔭 I’m currently working on refactoring my code in [diploma project](https://github.com/MarinaDreamwork/Diploma_Fullstack_App), add TypeScript and correct css
-### 🌱 I’m currently learning Node.js & Express and TypeScript
+### 🔭 I’m currently working on Angular Framework
+### 🌱 I’m currently learning Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDreamWork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
